@@ -1,2 +1,0 @@
-# aplikasiku
-demo hybrid unsoed
